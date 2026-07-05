@@ -1,4 +1,4 @@
 # Debansh
 This is my first git repository
 <br>
-My name is Debansh Nayak
+Author Debansh Nayak
